@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/WiFi_logo.png</file>
+        <file>pic/WiFi_logo_litle.png</file>
+        <file>pic/icons/application-exit.png</file>
+        <file>pic/icons/applications-system.png</file>
+        <file>pic/icons/configure.png</file>
+        <file>pic/icons/dialog-close.png</file>
+        <file>pic/icons/dialog-information.png</file>
+        <file>pic/icons/dialog-ok-apply.png</file>
+        <file>pic/icons/document-edit.png</file>
+        <file>pic/icons/network-connect.png</file>
+        <file>pic/icons/system-run.png</file>
+        <file>pic/icons/system-shutdown.png</file>
+        <file>translate/app_en.qm</file>
+        <file>translate/app_en.ts</file>
+        <file>translate/app_ru.qm</file>
+        <file>translate/app_ru.ts</file>
+        <file>about/about_en_EN.html</file>
+        <file>about/about_ru_RU.html</file>
+        <file alias="translate/app_cn">app_cn.qm</file>
+    </qresource>
+    <qresource prefix="/translate">
+        <file>translate/app_cn.qm</file>
+    </qresource>
+</RCC>
